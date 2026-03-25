@@ -1,0 +1,73 @@
+Bargardan License Agreement
+Copyright (c) 2024-2026 Bargardan. All Rights Reserved.
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+   "Software" refers to the Bargardan browser extension, including all source
+   code, compiled code, assets, icons, fonts, documentation, and related files.
+   "Author" refers to the original creator(s) and copyright holder(s) of the Software.
+   "User" refers to any individual who installs or uses the Software.
+
+2. GRANT OF USE
+   The Author grants Users a limited, non-exclusive, non-transferable,
+   revocable license to install and use the Software solely for personal,
+   non-commercial purposes through the official distribution channels
+   (Chrome Web Store, Firefox Add-ons, or the Author's official website).
+
+3. RESTRICTIONS
+   Users MAY NOT, under any circumstances:
+
+   a) Copy, reproduce, or duplicate the Software or any substantial part of it.
+   b) Modify, adapt, alter, translate, or create derivative works based on
+      the Software.
+   c) Distribute, sublicense, lease, rent, sell, or otherwise transfer the
+      Software or any rights therein to any third party.
+   d) Publish, upload, or submit the Software or any modified version to any
+      extension store, marketplace, repository, or distribution platform.
+   e) Reverse engineer, decompile, or disassemble the Software for the purpose
+      of creating a competing or substantially similar product.
+   f) Remove, alter, or obscure any copyright notices, trademarks, or
+      proprietary labels contained in the Software.
+   g) Use the Software's code, design, architecture, or algorithms as a
+      basis for any other software project.
+   h) Claim authorship or ownership of the Software or any part thereof.
+
+4. INTELLECTUAL PROPERTY
+   The Software and all copies thereof are proprietary to the Author and title
+   thereto remains in the Author. All applicable rights to patents, copyrights,
+   trademarks, and trade secrets in the Software are and shall remain in the
+   Author. The Software is protected by international copyright laws and treaties.
+
+5. SOURCE CODE VISIBILITY
+   The fact that the Software's source code may be visible or accessible due to
+   the nature of browser extensions does NOT constitute a grant of any rights
+   to use, copy, modify, or distribute said source code. Visibility of source
+   code does not imply open-source licensing.
+
+6. ENFORCEMENT
+   Any unauthorized use, reproduction, modification, or distribution of the
+   Software constitutes a violation of this license and applicable copyright law.
+   The Author reserves the right to:
+
+   a) Issue DMCA takedown notices to any platform hosting unauthorized copies.
+   b) Pursue legal action for damages resulting from unauthorized use.
+   c) Revoke the User's license to use the Software at any time.
+
+7. TERMINATION
+   This license is effective until terminated. It will terminate automatically
+   if the User fails to comply with any term of this agreement. Upon termination,
+   the User must destroy all copies of the Software in their possession.
+
+8. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+9. GOVERNING LAW
+   This license shall be governed by and construed in accordance with
+   international copyright law and the laws of the jurisdiction in which
+   the Author resides.
+
+For licensing inquiries or permissions beyond the scope of this license,
+contact the Author at bargardanapp@gmail.com.
