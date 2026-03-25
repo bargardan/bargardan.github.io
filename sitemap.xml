@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bargardan.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bargardan.github.io/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/install/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/install/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/install/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/install/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/install/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/install/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/privacy/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/privacy/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/support/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/support/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/support/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/support/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/support/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/support/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/changelog/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/changelog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/changelog/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/changelog/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/changelog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/changelog/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/compare/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/compare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/compare/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bargardan.github.io/en/compare/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bargardan.github.io/compare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bargardan.github.io/en/compare/"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

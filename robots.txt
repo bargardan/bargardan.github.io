@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /_next/
+Disallow: /404
 
 Sitemap: https://bargardan.github.io/sitemap.xml
 
+# Bargardan — Free Persian Translator & RTL Fixer for Chrome
+# https://bargardan.github.io
