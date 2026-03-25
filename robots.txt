@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bargardan.github.io/sitemap.xml
+
